@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:background="@android:color/black"
+        app:bbn_badgeColor="#FFFFFF"
+        app:bbn_itemColorInactive="#FFFFFF"
+        app:bbn_rippleColor="#33ffffff">
+        <item
+            android:id="@+id/bbn_item1"
+            android:color="@color/colorPrimary"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/bbn_item2"
+            android:color="@android:color/holo_green_dark"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="calender" />
+        <item
+            android:id="@+id/bbn_item3"
+            android:color="@android:color/holo_orange_dark"
+            android:icon="@drawable/ic_assignment_turned_in_black_24dp"
+            android:title="to-do" />
+        <item
+            android:id="@+id/bbn_item4"
+            android:color="#FF5252"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Notification"/>
+    <item
+        android:id="@+id/bbn_item5"
+        android:color="@android:color/holo_blue_light"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="Mailbox" />
+
+    </menu>

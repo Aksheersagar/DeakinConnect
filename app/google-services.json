@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31647133107",
+    "firebase_url": "https://deakinconnect-1fcf9.firebaseio.com",
+    "project_id": "deakinconnect-1fcf9",
+    "storage_bucket": "deakinconnect-1fcf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31647133107:android:579acec89784e3e0902fc6",
+        "android_client_info": {
+          "package_name": "com.example.deakinconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31647133107-jl2i0kub6snieq4n2afbj2a3shl8nrr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKEtnKPKFkjNRjJ-qWdGlFo8gmF53EsrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31647133107-jl2i0kub6snieq4n2afbj2a3shl8nrr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
